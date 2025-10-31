@@ -37,7 +37,7 @@ class MatrixAdd{
 			}
 		}
 		
-		System.out.println("Addition of given two matrix: ");
+		System.out.println("Addition of two given matrix: ");
 		for(i = 0 ; i<m ; i++){
 			for(j = 0 ; j < n ; j++){
 				
