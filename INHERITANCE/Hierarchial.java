@@ -1,3 +1,4 @@
+//Hierarchical inheritance 
 import java.util.*;
 
 class P{
