@@ -6,7 +6,7 @@ class Super{
 
 class Sub extends Super{
 	void show(){
-		System.out.println("This override the super class....");
+		System.out.println("This overrides the super class....");
 	}
 }
 
