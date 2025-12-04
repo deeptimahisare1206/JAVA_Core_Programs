@@ -5,9 +5,9 @@ public static void main(String args [] ){
 int a[]= new int [10];
 int n,i;
 Scanner sc = new Scanner(System.in);
-System.out.println("enter the array size: ");
+System.out.println("Enter the array size: ");
 n=sc.nextInt();
-System.out.println("enter the array numbers: ");
+System.out.println("Enter the elements of array: ");
 for(i = 1; i<=n;i++){
 a[i]=sc.nextInt();
 
