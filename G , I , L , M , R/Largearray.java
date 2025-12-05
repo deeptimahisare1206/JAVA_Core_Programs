@@ -21,7 +21,7 @@ large = a[i];
 }
 
 }
-System.out.println("Large in the array: " + large);
+System.out.println("Largest element in the array: " + large);
 
 }
 
