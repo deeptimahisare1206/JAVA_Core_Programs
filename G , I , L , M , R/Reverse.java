@@ -13,7 +13,7 @@ n=n/10;
 sum = sum *10+a;
 
 }
-System.out.println("The reversed number is: ");
+System.out.println("The Number after reversing is: ");
 System.out.println(sum);
 
 }
