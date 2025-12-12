@@ -20,7 +20,9 @@ class FinalSV{
 	public static void main(String args []){
 		A b = new A();
 		b.display();
-		
+		b.display();
+		b.display();
+		b.display();
 	}
 }
 
