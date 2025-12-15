@@ -4,7 +4,7 @@ abstract class Absuper{
 	abstract void display();
 	//Non-Abstract method...
 	void show(){
-		System.out.println("Super class method call.");
+		System.out.println("Method inside the Super class is called.");
 	}
 	//Static methods...
 	static int cube(int x ){
