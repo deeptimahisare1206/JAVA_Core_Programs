@@ -3,7 +3,7 @@ class Electricity {
 public static void main(String args[]){
 String name;
 int  id,prev,curt,unit;
-float amt;
+float amount;
 Scanner sc=new Scanner (System.in);
 
 System.out.println("Enter consumer name: ");
@@ -23,13 +23,13 @@ curt=sc.nextInt();
 unit=curt- prev;
 
 if(unit<50)
-amt=unit*3.25f;
+amount=unit*3.25f;
 else if (unit>=50 && unit<100)
-amt=unit*5f;
+amount=unit*5f;
 else if(unit>=100 && unit<=200)
-amt = unit*6.75f;
+amount= unit*6.75f;
 else
-amt = unit*8f;
+amount = unit*8f;
 
 System.out.println("Consumer name: " + name);
 
@@ -41,7 +41,7 @@ System.out.println(" Current Reading: " + curt);
 
 System.out.println("Unit used: " + unit);
 
-System.out.println("Total Amount: " + amt);
+System.out.println("Total Amount: " + amount);
 
 
 
