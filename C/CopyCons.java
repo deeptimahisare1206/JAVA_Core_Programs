@@ -9,7 +9,7 @@ class Stock{
 		
 	}
 	void display(){
-		
+		System.out.println("List of stocks:-");
 		System.out.println("Stock id: " + stockid);
 		System.out.println("Price: "  + price);
 		
