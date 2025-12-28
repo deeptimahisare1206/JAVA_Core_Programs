@@ -5,7 +5,7 @@ interface Lmda{
 class LambdaRt{
 	public static void main (String args []){
 		Scanner sc= new Scanner(System.in);
-		System.out.println("Enter the two number: ");
+		System.out.println("Enter the two elements: ");
 		int x = sc.nextInt();
 		int y = sc.nextInt();
 		Lmda lm = (a,b)->{
