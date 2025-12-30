@@ -10,7 +10,7 @@ class StaticM{
 	
 	void getvalue(){
 		
-		System.out.println("Enter the students name.: ");
+		System.out.println("Enter the student's name.: ");
 		sname = sc.nextLine();
 		
 		System.out.println("Enter the roll no.: ");
