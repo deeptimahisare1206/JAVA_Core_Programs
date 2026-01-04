@@ -26,7 +26,7 @@ class Company implements Inter,Two{
 		System.out.println("DA: "+ da);
 		System.out.println("HRA: "+ hra);
 		System.out.println("PF: -"+ pf);
-		System.out.println("--------------------------------------- ");
+		System.out.println("-----xxxxxxxxxxxxxxxxxxxxxxx---------------------------------- ");
 		System.out.println("Total Salary: "+ total);
 	}
 }
