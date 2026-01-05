@@ -6,7 +6,7 @@ Scanner sc = new Scanner(System.in);
 int a=-1;
 int b=1;
 int i, n,sum=0;
-System.out.println("Enter the number: ");
+System.out.println("Enter the range: ");
 n=sc.nextInt();
 
 for(i=0; i<=n;i++){
