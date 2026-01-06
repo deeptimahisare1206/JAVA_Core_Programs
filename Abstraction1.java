@@ -14,7 +14,7 @@ abstract class Absuper{
 
 class Absub extends Absuper{
 	void display(){
-		System.out.println("Super class method overriden");
+		System.out.println("Super class method overriden.");
 	}
 }
 
