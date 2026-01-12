@@ -4,7 +4,7 @@ interface Demo{
 
 class Demo1 implements Demo{
 	public void display(){
-		System.out.println("The interface.");
+		System.out.println("This is method inside interface.");
 	}
 }
 
