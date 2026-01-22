@@ -14,8 +14,8 @@ class Coco implements Poco,Loco{
 }
 class Interface2{
 	public static void main(String args []){
-		Coco co = new Coco();
-		co.view();
-		co.present();
+		Coco coc = new Coco();
+		coc.view();
+		coc.present();
 	}
 }
