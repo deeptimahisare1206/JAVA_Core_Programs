@@ -1,11 +1,11 @@
 class Super{
-	void show(){
+	void view(){
 		System.out.println("This is the Super class...");
 	}
 }
 
 class Sub extends Super{
-	void show(){
+	void view(){
 		System.out.println("This overrides the super class....");
 	}
 }
@@ -13,6 +13,6 @@ class Sub extends Super{
 class Override{
 	public static void main (String args []){
 		Sub sb = new Sub();
-		sb.show();
+		sb.view();
 	}
 }
