@@ -1,4 +1,4 @@
-import java .util.*;
+import java.util.*;
 
 class age{
 public static void main(String [] args){
