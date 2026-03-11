@@ -11,16 +11,16 @@ c=sc.nextInt();
 d=sc.nextInt();
 
 if(a>b && a>c && a>d)
-System.out.println("A is greater");
+System.out.println("A is greatest");
 
 if(b>a && b>c && b>d)
-System.out.println("B is greater");
+System.out.println("B is greatest");
 
 if(c>a && c>b && c>d)
-System.out.println("C is greater");
+System.out.println("C is greatest");
 
 if(d>a && d>b && d>c)
-System.out.println("D is greater");
+System.out.println("D is greatest");
 
 }
 }
