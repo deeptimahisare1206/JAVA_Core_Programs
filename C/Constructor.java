@@ -6,7 +6,7 @@ class Student{
 	
 	Scanner sc = new Scanner(System.in);
 	Student(){
-		iname = "Universal";
+		iname = "Universal informatics";
 		course = "Java";
 	}
 	
