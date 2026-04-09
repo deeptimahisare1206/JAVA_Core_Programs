@@ -11,8 +11,8 @@ class Student{
 	
 	void display(){
 		
-		System.out.println("Roll no: " + rollno);
-		System.out.println("Marks: " + marks);
+		System.out.println("Enter Roll no: " + rollno);
+		System.out.println("Enter marks: " + marks);
 		
 	}
 }
