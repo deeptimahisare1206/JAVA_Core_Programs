@@ -26,6 +26,7 @@ calculate();
 System.out.println("Employee number: " + empno);
 System.out.println("Employee salary: " + salary);
 System.out.println("Employee name: " + empname);
+System.out.println("------_------------_-----");
 System.out.println("DA: " + da);
 System.out.println("HRA: " + hra);
 System.out.println("PF: - " + pf);
