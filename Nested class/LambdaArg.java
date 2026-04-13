@@ -4,7 +4,7 @@ interface Lemda{
 class LambdaArg{
 	public static void main(String args []){
 		Lemda le = (str)->{
-			System.out.println("Welcome " + str);
+			System.out.println("Welcome, Good Morning" + str);
 		};
 		le.view("Deep");
 	}
