@@ -4,7 +4,7 @@ class StaticV{
 	
 	StaticV(){
 		count++;
-		System.out.println( " " + count);
+		System.out.println( " --> " + count);
 	}
 }
 
